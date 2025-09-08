@@ -1,0 +1,14 @@
+{
+  "name": "rbac-verification",
+  "version": "1.0.0",
+  "description": "RBAC verification example using Node.js, Express, and JWT",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
